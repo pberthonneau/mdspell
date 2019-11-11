@@ -82,7 +82,7 @@ GEM
       coercible (~> 1.0)
       descendants_tracker (~> 0.0, >= 0.0.3)
       equalizer (~> 0.0, >= 0.0.9)
-    yard (0.8.7.6)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
@@ -97,7 +97,7 @@ DEPENDENCIES
   rspec (~> 3.4)
   rspec-collection_matchers (~> 1.1)
   rubocop (~> 0.37)
-  yard (~> 0.8)
+  yard (~> 0.9)
 
 BUNDLED WITH
    1.11.2
