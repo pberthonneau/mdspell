@@ -7,7 +7,7 @@ gem 'rspec-collection_matchers', '~> 1.1'
 
 gem 'rspec', '~> 3.4'
 
-gem 'rubocop', '~> 0.37'
+gem 'rubocop', '~> 0.49'
 gem 'reek', '~> 3.10'
 gem 'mdl', '~> 0.2'
 
