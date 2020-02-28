@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rake', '~> 10.5'
+gem 'rake', '~> 12.3'
 gem 'rspec-collection_matchers', '~> 1.1'
 
 gem 'rspec', '~> 3.4'
